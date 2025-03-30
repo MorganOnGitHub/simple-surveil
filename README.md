@@ -80,7 +80,7 @@ You can pass the following command-line arguments to customize the behavior:
 - `--surveil_object`: The object to monitor (default: `person`).
 - `--frame_skip`: The number of frames to skip before performing object detection (default: `5`).
 - `--record_duration`: The duration in seconds for which the application will record once the object is detected (default: `120`).
-- `--model_path`: The path to the YOLO model file (default: `models/yolo11m.pt`).
+- `--model_path`: The path to the YOLO model file (default: `models/yolo11l.pt`).
 
 #### Example:
 
