@@ -1,0 +1,6 @@
+/venv/
+/models/
+/recordings/
+.env
+__pycache__/
+*.pyc
